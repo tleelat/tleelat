@@ -2,9 +2,11 @@
 
 ### AI/ML Software Engineer | Data Analyst | Data & Analytics Engineer | End-to-End ML Systems Builder
 
+📍 Based in San Francisco, California, USA. 
+
 <p>
-  <heading> <a href="https://www.credly.com/badges/a58d31aa-13bf-463e-a8fa-525bcdd36f65/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" width="80" alt="AWS Certified" style="vertical-align: middle;"/>
+  <heading> <a href="https://www.credly.com/badges/4946a6fe-a6c8-4576-ae5c-1da043b83b0f" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/size/680x680/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="80" alt="AWS Certified" style="vertical-align: middle;"/>
   </a>
 </p>
 
@@ -18,13 +20,15 @@
 
 Minimalist coder & GenAI enthusiast, passionate about building production-grade ML pipelines and automating decision intelligence.
 
-- Architected RAG-based chatbots with Anthropic Claude & Amazon Bedrock for advanced policy retrieval and ticket resolution.
-- Built real-time NLP sentiment analysis and classification models using TensorFlow, XGBoost, and Scikit-learn, with sub-200ms inference latency.
-- Led MLOps optimization and continuous monitoring (SageMaker), achieving +9.7% F1-score and high model reliability.
-- Automated large-scale ETL and campaign analytics pipelines on GCP (BigQuery, Airflow, Snowflake) for Google Ads.
-- Migrated global platforms to distributed Java Spring Boot microservices, architected APIs reducing service latency >80%.
-- Containerized and deployed microservices on AWS ECS/EKS, enabling seamless scaling and high availability.
-- Enhanced observability for 5+ microservices using CloudWatch, Prometheus & Grafana to proactively resolve incidents.
+Driven by curiosity, I turn ideas into intelligent systems at scale.  
+I blend AI, code, and cloud to automate what matters, from seamless data pipelines to ML models that never sleep.
+
+- I thrive on building solutions that learn, adapt, and deliver value — fast.
+- I love wrangling data, deploying robust ML, and making tech invisible for the end user.
+- Collaboration, coffee, and creative debugging fuel my best work.
+- If it’s cutting-edge, distributed, or needs automating, I’m all in!
+
+Always learning. Always shipping. Always chasing that “aha!” moment.
 
 ---
 
@@ -75,6 +79,16 @@ Minimalist coder & GenAI enthusiast, passionate about building production-grade 
 Minimalist at heart. Always excited by the latest in AI/ML and GenAI. 
 
 ---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:leelatejaswini.tikkisetty@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/leelatikkisetty/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/biriyanified"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter"/></a>
+  <a href="https://leetcode.com/tleelat/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/></a>
+  </a>
+</p>
 
 <!--
 **tleelat/tleelat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
