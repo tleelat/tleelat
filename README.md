@@ -2,7 +2,8 @@
 
 ### AI/ML Software Engineer | Data Analyst | Data & Analytics Engineer | End-to-End ML Systems Builder
 
-📍 Based in San Francisco, California, USA. 
+Thriving in Bay Area, I’m driven by the energy of innovation and the challenge to make my mark. 📍 San Francisco.  
+Here, every day is a chance to build, learn, and push boundaries with AI, data, and cloud at scale.
 
 <p>
   <heading> <a href="https://www.credly.com/badges/4946a6fe-a6c8-4576-ae5c-1da043b83b0f" target="_blank" rel="noopener noreferrer">
