@@ -87,7 +87,8 @@ Minimalist at heart. Always excited by the latest in AI/ML and GenAI.
   <a href="mailto:leelatejaswini.tikkisetty@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/leelatikkisetty/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/></a>
   <a href="https://twitter.com/biriyanified"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter"/></a>
-  <a href="https://leetcode.com/tleelat/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/></a>
+<!--  <a href="https://leetcode.com/tleelat/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" alt="LeetCode"/></a>
+  -->
   </a>
 </p>
 
