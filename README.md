@@ -1,6 +1,6 @@
 # Hey, I am Leela! 
 
-### AI/ML Software Engineer | Data Analyst | Data & Analytics Engineer | End-to-End ML Systems Builder
+### AI Engineer
 
 Thriving in Bay Area, I’m driven by the energy of innovation and the challenge to make my mark. 📍 San Francisco.  
 Here, every day is a chance to build, learn, and push boundaries with AI, data, and cloud at scale.
