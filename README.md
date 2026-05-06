@@ -76,8 +76,7 @@ Always learning. Always shipping. Always chasing that “aha!” moment.
 ---
 ## Learning 
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/69c0f67233a0ad7a57ff950d?variant=dark" alt="roadmap.sh"/></a>
-
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/69c0f67233a0ad7a57ff950d?variant=dark&roadmaps=%2Cfull-stack" alt="roadmap.sh"/></a>
 ## Fun Fact
 
 Minimalist at heart. Always excited by the latest in AI/ML and GenAI. 
