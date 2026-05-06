@@ -74,6 +74,9 @@ Always learning. Always shipping. Always chasing that “aha!” moment.
 </div>
 
 ---
+## Learning 
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/69c0f67233a0ad7a57ff950d?variant=dark" alt="roadmap.sh"/></a>
 
 ## Fun Fact
 
